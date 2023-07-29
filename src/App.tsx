@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="flex flex-col h-screen justify-center items-center text-estedad space-y-5">
+      <div className="flex flex-col h-screen justify-center items-center text-estedad space-y-10">
         <p className="text-xl text-justify">
           سلام خوبی این اولین پیام این برنامه هست که به زبان فارسیه!
         </p>
